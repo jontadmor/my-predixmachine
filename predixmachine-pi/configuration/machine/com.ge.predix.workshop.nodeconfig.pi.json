@@ -1,0 +1,17 @@
+[
+   {
+     "nodeName": "Light:JT",
+     "nodeType": "Light",
+     "nodePin": 1
+   },
+   {
+      "nodeName": "RotaryAngle:JT",
+      "nodeType": "RotaryAngle",
+      "nodePin": 2
+   },
+   {
+      "nodeName": "TempAndHumidity:JT",
+      "nodeType": "TempAndHumidity",
+      "nodePin": 4
+    }
+]
